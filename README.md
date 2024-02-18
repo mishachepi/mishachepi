@@ -1,7 +1,7 @@
 # Hi there 🌲 I'm Misha 
 
 ## About Me
-I'm a DevOps Engineer. I'm always looking to tackle new challenges and innovate in the field of DevOps. Building a DevOps culture in a team or company is an interesting and significant challenge for me, which I always embrace!
+I'm a DevOps Engineer. I'm always looking for tackling new challenges and innovating in the field of DevOps. Building a DevOps culture in a team or company is an interesting and significant challenge for me, which I always embrace!
 
 ## Technical Skills
 - **Languages & Tools**: System Administration Windows/Linux/MacOS, Python C/C++ Docker ...
