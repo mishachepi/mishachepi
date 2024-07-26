@@ -9,7 +9,7 @@ I'm a DevOps Engineer. I'm always looking for tackling new challenges and innova
 
 ---
 
-- 🔭 I’m currently working as a IT Engineer (Devops is included in my responsibilities). Now I am setting up IT processes in a big company.
+- 🔭 I’m currently working as a IT Engineer (Devops is included in my responsibilities). Now I am setting up IT processes in an IT company.
 - 🌱 I’m currently expanding my knowledge in information security, exploring its intersection with DevOps to enhance system integrity and reliability. And also I'm focusing on developing myself as an SRE specialist.
 - 🎎 I’m open to collaborating on projects that involve innovative DevOps practices or information security solutions
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mikhail-chepkin/).
