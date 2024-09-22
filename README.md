@@ -4,11 +4,11 @@
 I'm a DevOps Engineer with a big interest in clouds, networking and linux. I am very security conscious and implement all the best security practices. Focused on automatization with Python. Ready to implement DevOps practices to your team or company.
 
 ## Technical Skills
-- **Languages & Tools**: Python for development and scripting. Bash and PowerShell for scripting. Learning Go, Rust
-- **DevOps tools**: Ansible, Terraform, Kubernetes, Docker, CI/CD tools
-- **Monitoring**: Zabbix, Prometheus, Grafana, ELK
+- **Languages & Tools**: Python for development and scripting. Bash and PowerShell for scripting.
+- **DevOps tools**: Ansible, Terraform, Kubernetes, Docker, CI/CD tools.
+- **Monitoring**: Zabbix, Prometheus, Grafana, ELK.
 - **Clouds**: Azure, AWS, Google Cloud Platform,  DigitalOcean.
-- **Databases**: PostgreSQL, MongoDB, Redis, Kafka
+- **Databases**: PostgreSQL, MongoDB, Redis
 ---
 
 - 🔭 I’m currently working as a DevOps Engineer and implementing DevOps practices to company with 400+ employees.
