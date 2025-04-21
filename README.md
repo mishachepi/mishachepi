@@ -11,7 +11,7 @@ I'm a DevOps Engineer with a big interest in clouds, networking and linux. I am 
 - **Databases**: PostgreSQL, MongoDB, Redis
 ---
 
-- 🔭 I’m currently working as a DevOps Engineer and implementing DevOps practices to company with 400+ employees.
+- 🔭 I’m currently working as a DevOps Engineer.
 - 🌱 I’m currently expanding my knowledge in information security, exploring its intersection with DevOps to enhance system integrity and reliability. And also I'm focusing on developing myself as an SRE specialist.
 - 🎎 I’m open to collaborating on projects that involve innovative DevOps practices or information security solutions.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mikhail-chepkin/).
