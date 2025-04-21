@@ -5,10 +5,10 @@ I'm a DevOps Engineer with a big interest in clouds, networking and linux. I am 
 
 ## Technical Skills
 - **Languages & Tools**: Python for development and scripting. Bash and PowerShell for scripting.
-- **DevOps tools**: Ansible, Terraform, Kubernetes, Docker, CI/CD tools.
-- **Monitoring**: Zabbix, Prometheus, Grafana, ELK.
-- **Clouds**: Azure, AWS, Google Cloud Platform,  DigitalOcean.
-- **Databases**: PostgreSQL, MongoDB, Redis
+- **DevOps tools**: Ansible, Puppet, Terraform, Pulumi, Kubernetes, Docker, CI/CD tools.
+- **Monitoring**: Zabbix, Prometheus, Grafana, Alloy.
+- **Clouds**: Azure, AWS, Google Cloud Platform, DigitalOcean, Hetzner.
+- **Databases**: PostgreSQL, MongoDB, Redis Cluster.
 ---
 
 - 🔭 I’m currently working as a DevOps Engineer.
